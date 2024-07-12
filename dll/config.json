@@ -1,0 +1,14 @@
+{
+    "mapSetting": {
+        "lat": 37.5,
+        "lng": 121.5,
+        "mapType": 1,
+        "maxZoom": 18,
+        "source": "amap",
+        "zoom": 14
+    },
+    "sbl": {
+        "ip": "47.104.21.115",
+        "port": 5104
+    }
+}

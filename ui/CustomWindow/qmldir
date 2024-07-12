@@ -1,0 +1,8 @@
+﻿Module CustomWindow
+
+
+CustomVideoWidget                           1.0 CustomVideoWidget.qml
+PopWindow                                   1.0 PopWindow.qml
+WaypointEditWidget                          1.0 WaypointEditWidget.qml
+MainWidget                                  1.0 MainWidget.qml
+SecondaryWidget                             1.0 SecondaryWidget.qml

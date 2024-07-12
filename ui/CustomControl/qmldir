@@ -1,0 +1,33 @@
+Module CustomControl
+
+DeadMouseArea                       1.0             DeadMouseArea.qml
+JoystickThumbPad                    1.0             JoystickThumbPad.qml
+LGCArtificialHorizon                1.0             LGCArtificialHorizon.qml
+LGCAttitudeWidget                   1.0             LGCAttitudeWidget.qml
+LGCButton                           1.0             LGCButton.qml
+LGCColoredImage                     1.0             LGCColoredImage.qml
+LGCGroupBox                         1.0             LGCGroupBox.qml
+LGCCombobox                         1.0             LGCCombobox.qml
+LGCCompassWidget                    1.0             LGCCompassWidget.qml
+LGCLabel                            1.0             LGCLabel.qml
+LGCVideo                            1.0             LGCVideo.qml
+MyButton                            1.0             MyButton.qml
+LGCListView                         1.0             LGCListView.qml
+VirtualJoyStick                     1.0             VirtualJoyStick.qml
+LGCInstrumentWidget                 1.0             LGCInstrumentWidget.qml
+MyVideo                             1.0             MyVideo.qml
+OpencvVideo                         1.0             OpencvVideo.qml
+Test                                1.0             Test.qml
+InstrumentWidget                    1.0             InstrumentWidget.qml
+LeftButtonList                      1.0             LeftButtonList.qml
+Move                                1.0             Move.qml
+Extends                             1.0             Extends.qml
+MyComboBox                          1.0             MyComboBox.qml
+SBLSetting                          1.0             SBLSetting.qml
+CustomTextField                     1.0             CustomTextField.qml
+VehicleDatas                        1.0             VehicleDatas.qml
+TransparentComboBox                 1.0             TransparentComboBox.qml
+TopItem                             1.0             TopItem.qml
+BottomItem                          1.0             BottomItem.qml
+SecondaryWidgetExtend               1.0             SecondaryWidgetExtend.qml
+CapVideo                            1.0             CapVideo.qml
